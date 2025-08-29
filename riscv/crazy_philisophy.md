@@ -21,6 +21,10 @@ so... what is it different from x86 (used in previous ECE 391 curriculum)?
 ![](image.png)
 - Source: Riscv-International
 
+**2010**: Under the direction of Professor Krste Asnovic and graduate students Yunsup Lee and Andrew Waterman, they decided to build a new, clean-slate ISA from the ground up. You know why? **They were extremely frustrated with the complexity and the licensing fees of existing commercial ISAs for their research!** So they just decided to make a better ISA :) 
+
+**2015**: RISC-V Foundation was founded. The non-profit consortium included initial members like **Google, HP, Microsoft, Nvidia, and Qualcomm**.
+
 
 ## Key Philosophical Principles
 
