@@ -7,7 +7,7 @@ Risc-v is an open, free instruction set architecture (ISA) based on established 
 so... what is it different from x86 (used in previous ECE 391 curriculum)? 
 
 
-|    | RISC-V            | x86 |
+|  Name  | RISC-V            | x86 |
 | :----- | :--------------: | --: |
 | ISA  | Reduced Instruction Set Computer  | Complex Instruction Set Computer |
 | Licensing Model    | Open - Source and Royalty - Free  | Proprietary and Closed |
