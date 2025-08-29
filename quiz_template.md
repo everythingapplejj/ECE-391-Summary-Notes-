@@ -1,14 +1,22 @@
-# True/False Quiz
+# ECE 391 Week 1 Pop Quiz
+
+
+## Multiple Choice Questions
 
 ### Question 1
-TEST TEST TEST TEST
-- [ ] True
-- [ ] False
+How many general purpose registers are there in riscv? 
+- [ ] 8
+- [ ] 16
+- [ ] 24
+- [ ] 32
+- [ ] None of the above
 
 <details>
 <summary>Show Answer</summary>
 <br>
-**False** - Explanation 1
+RISCV has 32 General Purpose Registers. 
+
+![alt text](image-1.png)
 </details>
 
 ---
@@ -26,7 +34,7 @@ TEST TEST TEST TEST
 
 
 
-# Coding Quiz
+## Coding Questions
 
 ### Question 1
 Write a program
